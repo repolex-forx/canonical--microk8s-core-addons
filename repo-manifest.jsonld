@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/microk8s-core-addons/commit/0f192230dc3df263eb95b6be4c3f00a6ea037879",
       "git:hexsha": "0f192230dc3df263eb95b6be4c3f00a6ea037879",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
