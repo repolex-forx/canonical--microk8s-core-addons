@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "microk8s-core-addons",
+  "versions": [
+    {
+      "commit": "0f192230dc3df263eb95b6be4c3f00a6ea037879",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:28:02.784433+00:00"
+    }
+  ]
+}
